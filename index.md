@@ -26,7 +26,7 @@ j'ai installer une camera dans le raie de chaussée
 pour faire des video conference il faut que je mette
 la meme en haut mais il y a toujours un meeting en cours
 j'ai également appris a utiliser GitHub un peu se que j'utilise la maintenant
-[Bureau](https://static.wikia.nocookie.net/minecraft/images/c/c5/Bed.png/revision/latest?cb=20191103220226)
+[Bureau] (https://static.wikia.nocookie.net/minecraft/images/c/c5/Bed.png/revision/latest?cb=20191103220226)
 
 ```
 
