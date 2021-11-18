@@ -13,12 +13,31 @@ je testerais surement des aplis devveloper par eux sur tel
 il parle presque comme un autre langue et sa fait peur 
 les gens ici sont plutot sympa 
 de ce que j'ai compirs des companies demande des logiciels 
-et ils sent occupes et tente de regler les bugs que les utilisateur on pu rencontrer 
+et ils sent occupes et tente de regler les bugs que 
+les utilisateur on pu rencontrer 
 et faire des amelioration si demander 
 j'ai fait 4 meeting je commence a mieu comprendre le pourquoi du comment 
 on m'a preter un Macbook Pro et j'ai fait un diagramme pour un metting 
 ```
 
+
+
+Note
+```markdown
+Ils utilisent surtout 2 choses Jira et Confluence
+il y a 2 espace de repos avec
+1. Un babyfoot
+2. Une console
+3. Une Batteries electronic
+4. Une guitare
+il y a egalement des salles de reunions
+avec chacun un ecran
+l'entreprisse marche beacoup avec des video conference
+et de télé travail,
+ils utilisent egalement des serveurs cloud pas de physique
+des logicies open source sont souvent utiliser
+Toujours un CAFE pour commencer la journée
+```
 
 
 
