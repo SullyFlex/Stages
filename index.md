@@ -20,9 +20,9 @@ et faire des amélioration si demander
 j'ai fait 4 meeting je commence a mieux comprendre le pourquoi du comment
 on m'a prêter un Macbook Pro et j'ai fait un diagramme pour un meeting
 ```
-![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/IMG_0303.jpg?raw=true)
+![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0303.jpg?raw=true)
 
-![Escaliers et ascenseur](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Escaliers.jpg?raw=true)
+![Escaliers et ascenseur](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Image/Escaliers.jpg?raw=true)
 
 ### Jour 2
 ```markdown
@@ -36,7 +36,7 @@ j'ai aussi utiliser les telephones
 pour faire des test d'aplis
 ```
 
-![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/IMG_0304.jpg)
+![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/Images/IMG_0304.jpg)
 
 ### Note
 ```markdown
