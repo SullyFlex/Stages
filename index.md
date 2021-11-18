@@ -20,6 +20,8 @@ et faire des amélioration si demander
 j'ai fait 4 meeting je commence a mieux comprendre le pourquoi du comment
 on m'a prêter un Macbook Pro et j'ai fait un diagramme pour un meeting
 ```
+![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/IMG_0303.jpg?raw=true)
+
 
 ### Jour 2
 ```markdown
@@ -30,7 +32,7 @@ j'ai également appris a utiliser GitHub un peu se que j'utilise la maintenant
 
 ```
 
-![Bureau](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/IMG_0304.jpg)
+![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/IMG_0304.jpg)
 
 ### Note
 ```markdown
