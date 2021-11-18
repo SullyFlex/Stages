@@ -22,6 +22,7 @@ on m'a prêter un Macbook Pro et j'ai fait un diagramme pour un meeting
 ```
 ![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/IMG_0303.jpg?raw=true)
 
+![Escaliers et ascenseur](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Escaliers.jpg?raw=true)
 
 ### Jour 2
 ```markdown
@@ -31,8 +32,9 @@ la même en haut mais il y a toujours un meeting en cours
 j'ai également appris a utiliser GitHub un peu
 c'est ce que j'utilise maintenant
 j'arrive également a mettre des photos maintenant
-
-``` 
+j'ai aussi utiliser les telephones
+pour faire des test d'aplis
+```
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/IMG_0304.jpg)
 
