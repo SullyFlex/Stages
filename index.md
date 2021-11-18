@@ -34,6 +34,8 @@ c'est ce que j'utilise maintenant
 j'arrive également a mettre des photos maintenant
 j'ai aussi utiliser les telephones
 pour faire des test d'applis
+on a plusieurs endroit pour manger dans les environ
+un boulangerie environ 3 restaurants un lidl et autre
 ```
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/Images/IMG_0304.jpg)
@@ -58,21 +60,16 @@ Toujours un CAFE pour commencer la journée
 
 
 
-aide pour texte
+Aide pour texte
 ```markdown
-Syntax highlighted code block
-
+Code 
 # Header 1
 ## Header 2
 ### Header 3
-
 - Bulleted
 - List
-
 1. Numbered
 2. List
-
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
