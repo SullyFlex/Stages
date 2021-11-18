@@ -16,13 +16,21 @@ de ce que j'ai compirs des companies demande des logiciels
 et ils sent occupes et tente de regler les bugs que
 les utilisateur on pu rencontrer
 et faire des amelioration si demander
-j'ai fait 4 meeting je commence a mieu comprendre le pourquoi du comment 
+j'ai fait 4 meeting je commence a mieu comprendre le pourquoi du comment
 on m'a preter un Macbook Pro et j'ai fait un diagramme pour un meeting
 ```
 
+### Jour 2
+```markdown
+j'ai installer une camera dans le raie de chaussée
+pour faire des video conference il faut que je mette
+la meme en haut mais il y a toujours un meeting en cours
+j'ai également appris a utiliser GitHub un peu se que j'utilise la maintenant
 
 
-Note
+```
+
+### Note
 ```markdown
 Ils utilisent surtout 2 choses Jira et Confluence
 il y a 2 espace de repos avec
