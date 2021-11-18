@@ -17,7 +17,7 @@ d'après ce que j'ai compris, des compagnies demandent des logiciels
 et ils s'en occupent et tentent de régler les bugs que
 les utilisateurs on pu rencontrer
 et faire des améliorations si demandées.
-j'ai fait 4 meetings, et je commence à mieux comprendre le pourquoi du comment.
+j'ai fait 4 meetings, et je commence à mieux les enjeux du metier.
 On m'a prêté un Macbook Pro et j'ai fait un diagramme pour un meeting.
 ```
 ![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0303.jpg?raw=true)
