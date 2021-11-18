@@ -22,7 +22,7 @@ on m'a prêter un Macbook Pro et j'ai fait un diagramme pour un meeting
 ```
 ![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0303.jpg?raw=true)
 
-![Escaliers et ascenseur](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Image/Escaliers.jpg?raw=true)
+![Escaliers et ascenseur](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/Escaliers.jpg?raw=true)
 
 ### Jour 2
 ```markdown
