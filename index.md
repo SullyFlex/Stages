@@ -33,7 +33,7 @@ j'ai également appris a utiliser GitHub un peu
 c'est ce que j'utilise maintenant
 j'arrive également a mettre des photos maintenant
 j'ai aussi utiliser les telephones
-pour faire des test d'aplis
+pour faire des test d'applis
 ```
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/Images/IMG_0304.jpg)
@@ -52,6 +52,7 @@ l'entreprisse marche beaucoup avec des video conférence
 et de télé travail,
 ils utilisent également des serveurs cloud pas de physique
 des logiciel open source sont souvent utiliser
+Le babyfoot est très apprécier
 Toujours un CAFE pour commencer la journée
 ```
 
