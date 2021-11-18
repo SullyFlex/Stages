@@ -6,19 +6,19 @@ Décris le Stage de Sully Muller dans la société 4SH
 ### Jour 1
 
 ```markdown
-On m'as montrer mon Bureau
-J'ai visiter les 2 étages
-Les escaliers en verre sont impressionnant
-j'ai appris a quoi servait les différents applis que la société utilisent
-je testerais surement des applis développer par eux sur tel
-il parle presque comme un autre langue et sa fait peur
-les gens ici sont plutôt sympa
-de ce que j'ai compris des compagnies demande des logiciels
-et ils sent occupes et tente de régler les bugs que
-les utilisateur on pu rencontrer
-et faire des amélioration si demander
-j'ai fait 4 meeting je commence a mieux comprendre le pourquoi du comment
-on m'a prêter un Macbook Pro et j'ai fait un diagramme pour un meeting
+On m'as montré mon Bureau
+J'ai visité les 2 étages.
+Les escaliers en verre sont impressionnants
+j'ai appris a quoi servait les différentes applis que la société utilisent
+je testerai surement des applis développées par eux sur teléphones
+Ils parlent presque comme un autre langue et ça fait peur
+les gens ici sont plutôt sympas
+d'après ce que j'ai compris, des compagnies demandent des logiciels
+et ils s'en occupent et tentent de régler les bugs que
+les utilisateurs on pu rencontrer
+et faire des améliorations si demandées.
+j'ai fait 4 meetings, et je commence à mieux comprendre le pourquoi du comment.
+On m'a prêté un Macbook Pro et j'ai fait un diagramme pour un meeting.
 ```
 ![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0303.jpg?raw=true)
 
@@ -26,16 +26,17 @@ on m'a prêter un Macbook Pro et j'ai fait un diagramme pour un meeting
 
 ### Jour 2
 ```markdown
-j'ai installer une camera dans le raie de chaussée
-pour faire des video conférence il faut que je mette
-la même en haut mais il y a toujours un meeting en cours
-j'ai également appris a utiliser GitHub un peu
+j'ai installé une camera dans le rez de chaussée
+pour faire des video-conférence .
+il faut que je mette la même camera en haut mais
+il y a toujours un meeting en cours...
+j'ai également appris à utiliser GitHub un peu
 c'est ce que j'utilise maintenant
-j'arrive également a mettre des photos maintenant
-j'ai aussi utiliser les telephones
+J'arrive également à mettre des photos maintenant sur la page
+j'ai aussi utilisé les telephones
 pour faire des test d'applis
-on a plusieurs endroit pour manger dans les environ
-un boulangerie environ 3 restaurants un lidl et autre
+on a plusieurs endroits pour manger dans les environs
+un boulangerie et environ 3 restaurants un lidl et autre
 ```
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/Images/IMG_0304.jpg)
@@ -43,26 +44,27 @@ un boulangerie environ 3 restaurants un lidl et autre
 ### Note
 ```markdown
 Ils utilisent surtout 2 choses Jira et Confluence
-il y a 2 espace de repos avec
+ils y a 2 espaces de repos avec
 1. Un babyfoot
 2. Une console
-3. Une Batteries électronique
+3. Une Batterie électronique
 4. Une guitare
 il y a également des salles de réunions
-avec chacun un écran
-l'entreprisse marche beaucoup avec des video conférence
+avec chacune un écran.
+L'entreprise marche beaucoup avec des video-conférences
 et de télé travail,
-ils utilisent également des serveurs cloud pas de physique
-des logiciel open source sont souvent utiliser
-Le babyfoot est très apprécier
-Toujours un CAFE pour commencer la journée
+ils utilisent également des serveurs cloud mais pas de physique.
+Des logiciels open source sont souvent utilisés
+Le babyfoot est très apprécié
+Et le mot d'ordre :
+'Toujours un CAFE pour commencer la journée!'
 ```
 
 
 
 Aide pour texte
 ```markdown
-Code 
+Code
 # Header 1
 ## Header 2
 ### Header 3
