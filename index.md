@@ -28,9 +28,11 @@ on m'a prêter un Macbook Pro et j'ai fait un diagramme pour un meeting
 j'ai installer une camera dans le raie de chaussée
 pour faire des video conférence il faut que je mette
 la même en haut mais il y a toujours un meeting en cours
-j'ai également appris a utiliser GitHub un peu se que j'utilise la maintenant
+j'ai également appris a utiliser GitHub un peu
+c'est ce que j'utilise maintenant
+j'arrive également a mettre des photos maintenant
 
-```
+``` 
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/IMG_0304.jpg)
 
