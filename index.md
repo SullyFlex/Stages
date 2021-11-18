@@ -27,6 +27,7 @@ j'ai installer une camera dans le raie de chaussée
 pour faire des video conférence il faut que je mette
 la même en haut mais il y a toujours un meeting en cours
 j'ai également appris a utiliser GitHub un peu se que j'utilise la maintenant
+[Link](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/IMG_0304.jpg)
 ```
 
 ### Note
