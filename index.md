@@ -16,7 +16,7 @@ et ils s'en occupent et tentent de régler les bugs que
 les utilisateurs on pu rencontrer
 et faire des améliorations si demandées.
 j'ai fait 4 meetings, et je commence à mieux les enjeux du metier.
-On m'a prêté un _Macbook Pro_ et j'ai fait un diagramme pour un meeting.
+On m'a prêté un _**Macbook Pro**_ et j'ai fait un diagramme pour un meeting.
 J'ai également manger à **Bistro Regions**
 
 ![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0303.jpg?raw=true)
@@ -48,16 +48,17 @@ La _**Fatigue**_ commence a ce faire sentir,
 J'ai cazy fini tous ce que je devais faire
 il me a prendre reste 2,3 photos,
 finir de trié les pc et virer les cartons.
-aujourd'hui il ny a pas beaucoup de personne
-car la plus part font du télé-travails.
+aujourd'hui il n'y a pas beaucoup de personne
+car la plus part font du **télé-travails**.
 Je compter prendre
 une photo du bâtiments vue de dehors mais
-il y a du brouillard donc bon peut être plus tard
+il y a du **brouillard** donc bon peut être plus tard
 au moins.
 J'ai pu installer la camera dans la salle de reunion
 il faudra également faire un doc pour expliquer
 comment marche imprimante
 car ils l'ont changé il n'y a pas longtemps.
+Toujours pas de nouvelle de se fameux **Sapin** de **Noel**
 
 
 
