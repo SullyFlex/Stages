@@ -1,6 +1,6 @@
-## **Stage 3eme Sully Muller**
+## _**Stage 3eme Sully Muller**_
 
-`Décris le Stage de Sully Muller dans la société 4SH`
+**_Décris le Stage de Sully Muller dans la société 4Sh_**
 _2021_
 
 ### **Jour 1**
@@ -45,22 +45,22 @@ j'ai aussi mangé **ange** aujourd'hui
 
 ### **Jour 3**
 ```markdown
-La **Fatigue** commence a ce faire sentir,
+La Fatigue commence a ce faire sentir,
 J'ai cazy fini tous ce que je devais faire
 il me a prendre reste 2,3 photos,
 finir de trié les pc et virer les cartons.
 aujourd'hui il ny a pas beaucoup de personne
-car la plus part font du **télé-travails**.
+car la plus part font du télé-travails.
 ```
 
 ### Note
 ```markdown
 Ils utilisent surtout 2 choses Jira et Confluence
 ils y a 2 espaces de repos avec.
-_1._ **Un babyfoot**
-_2._ **Une console**
-_3._ **Une Batterie électronique**
-_4._ **Une guitare**
+- Un babyfoot
+- Une console
+- Une Batterie électronique**
+- Une guitare
 il y a également des salles de réunions
 avec chacune un écran.
 L'entreprise marche beaucoup avec des video-conférences
@@ -69,9 +69,8 @@ ils utilisent également des serveurs cloud mais pas de physique.
 Des logiciels open source sont souvent utilisés
 Le babyfoot est très apprécié
 Et le mot d'ordre :
-'Toujours un **CAFE** pour commencer la journée!'
+'Toujours un CAFE pour commencer la journée!'
 ```
-
 
 
 Aide pour texte
