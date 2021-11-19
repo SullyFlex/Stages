@@ -1,9 +1,8 @@
-## _**Stage 3eme Sully Muller**_
+# _**Stage 3eme Sully Muller**_
 
-**_Décris le Stage de Sully Muller dans la société 4Sh_**
-_2021_
+### _Décris le Stage de Sully Muller dans la société 4Sh 2021_
 
-### **Jour 1**
+## **Jour 1**
 On m'as montré mon **Bureau**
 J'ai visité les 2 étages.
 Les escaliers en verre sont impressionnants
@@ -23,7 +22,7 @@ J'ai également manger à **Bistro Regions**
 
 ![Escaliers et ascenseur](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/Escaliers.jpg?raw=true)
 
-### **Jour 2**
+## **Jour 2**
 J'ai installé une camera dans le rez de chaussée
 pour faire des video-conférence.
 Il faut que je mette la même camera en haut mais
@@ -43,7 +42,7 @@ qu'ils aurait perdu,
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/Images/IMG_0304.jpg)
 
-### **Jour 3**
+## **Jour 3**
 La _**Fatigue**_ commence a ce faire sentir,
 J'ai cazy fini tous ce que je devais faire
 il me a prendre reste 2,3 photos,
@@ -80,6 +79,14 @@ Et le mot d'ordre :
 'Toujours un _**CAFE**_ pour commencer la journée!'
 Un **Sapin** de **Noel**
 a également disparu et est toujours rechercher
+
+### Extra photos
+
+
+![Salle relax](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0313.jpg?raw=true)
+![Salle relax2](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0319.jpg?raw=true)
+
+
 
 Aide pour texte
 ```markdown
