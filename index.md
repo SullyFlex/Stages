@@ -63,7 +63,7 @@ ils utilisent également des serveurs cloud mais pas de physique.
 Des logiciels open source sont souvent utilisés
 Le babyfoot est très apprécié
 Et le mot d'ordre :
-'Toujours un `CAFE` pour commencer la journée!'
+`'Toujours un CAFE pour commencer la journée!''`
 ```
 
 
