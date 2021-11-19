@@ -36,9 +36,11 @@ pour faire des test d'applis
 on a plusieurs endroits pour manger dans les environs
 un boulangerie et environ 3 restaurants un lidl et autre
 j'ai aussi mangé **Ange** aujourd'hui.
-On ma demandé de trouver un sapin de noel
-qu'ils aurait perdu,
-
+On ma demandé de trouver un **Sapin** de **Noel**
+qu'ils aurait perdu, par quel miracle peut tu
+perdre un sapin de noel je ne sais pas mais cest
+arrivé donc bon
+apres avoir cherchez un peu j'ai abandonner.
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/Images/IMG_0304.jpg)
 
@@ -58,6 +60,8 @@ il faudra également faire un doc pour expliquer
 comment marche imprimante
 car ils l'ont changé il n'y a pas longtemps.
 Toujours pas de nouvelle de se fameux **Sapin** de **Noel**
+J'ai mangé à nobinobi(Restaurants Korean)
+et j'ai enfin pu sortir les cartons 
 
 
 
