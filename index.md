@@ -28,9 +28,9 @@ J'ai installé une camera dans le rez de chaussée
 pour faire des video-conférence.
 Il faut que je mette la même camera en haut mais
 il y a toujours un meeting en cours...
-J'ai également appris à utiliser **GitHub** un peu
+J'ai également appris à utiliser [**GitHub**](https://github.com/SullyFlex/Stage3eme/tree/gh-pages) un peu
 c'est ce que j'utilise maintenant
-c'est plus _galère_ qu'on l'imagine.
+c'est plus _Galère_ qu'on l'imagine.
 J'arrive également à mettre des photos maintenant sur la page
 j'ai aussi utilisé les telephones
 pour faire des test d'applis
@@ -49,10 +49,10 @@ J'ai cazy fini tous ce que je devais faire
 il me a prendre reste 2,3 photos,
 finir de trié les pc et virer les cartons.
 aujourd'hui il n'y a pas beaucoup de personne
-car la plus part font du **télé-travails**.
+car la plus part font du **Télé-travails**.
 Je compter prendre
 une photo du bâtiments vue de dehors mais
-il y a du **brouillard** donc bon peut être plus tard
+il y a du **Brouillard** donc bon peut être plus tard
 au moins.
 J'ai pu installer la camera dans la salle de reunion
 il faudra également faire un doc pour expliquer
