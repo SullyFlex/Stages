@@ -4,9 +4,7 @@
 _2021_
 
 ### **Jour 1**
-
-```markdown
-On m'as montré mon Bureau
+On m'as montré mon **Bureau**
 J'ai visité les 2 étages.
 Les escaliers en verre sont impressionnants
 j'ai appris a quoi servait les différentes applis que la société utilisent
@@ -18,49 +16,54 @@ et ils s'en occupent et tentent de régler les bugs que
 les utilisateurs on pu rencontrer
 et faire des améliorations si demandées.
 j'ai fait 4 meetings, et je commence à mieux les enjeux du metier.
-On m'a prêté un Macbook Pro et j'ai fait un diagramme pour un meeting.
-j'ai également manger a bistro regions
-```
+On m'a prêté un _Macbook Pro_ et j'ai fait un diagramme pour un meeting.
+J'ai également manger à **Bistro Regions**
+
 ![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0303.jpg?raw=true)
 
 ![Escaliers et ascenseur](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/Escaliers.jpg?raw=true)
 
 ### **Jour 2**
-```markdown
-j'ai installé une camera dans le rez de chaussée
-pour faire des video-conférence .
-il faut que je mette la même camera en haut mais
+J'ai installé une camera dans le rez de chaussée
+pour faire des video-conférence.
+Il faut que je mette la même camera en haut mais
 il y a toujours un meeting en cours...
-j'ai également appris à utiliser **GitHub** un peu
+J'ai également appris à utiliser **GitHub** un peu
 c'est ce que j'utilise maintenant
+c'est plus _galère_ qu'on l'imagine.
 J'arrive également à mettre des photos maintenant sur la page
 j'ai aussi utilisé les telephones
 pour faire des test d'applis
 on a plusieurs endroits pour manger dans les environs
 un boulangerie et environ 3 restaurants un lidl et autre
-j'ai aussi mangé **ange** aujourd'hui
-```
+j'ai aussi mangé **Ange** aujourd'hui
+
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/Images/IMG_0304.jpg)
 
 ### **Jour 3**
-```markdown
-La Fatigue commence a ce faire sentir,
+La _**Fatigue**_ commence a ce faire sentir,
 J'ai cazy fini tous ce que je devais faire
 il me a prendre reste 2,3 photos,
 finir de trié les pc et virer les cartons.
 aujourd'hui il ny a pas beaucoup de personne
 car la plus part font du télé-travails.
-```
+Je compter prendre
+une photo du bâtiments vue de dehors mais
+il y a du brouillard donc bon peut être plus tard
+au moins
+j'ai pu installer la camera dans la salle de reunion
+
+
+
 
 ### Note
-```markdown
-Ils utilisent surtout 2 choses Jira et Confluence
+Ils utilisent surtout 2 choses **Jira** et **Confluence**
 ils y a 2 espaces de repos avec.
-- Un babyfoot
-- Une console
-- Une Batterie électronique**
-- Une guitare
+- **Un babyfoot**
+- **Une console**
+- **Une Batterie électronique**
+- **Une guitare**
 il y a également des salles de réunions
 avec chacune un écran.
 L'entreprise marche beaucoup avec des video-conférences
@@ -69,8 +72,7 @@ ils utilisent également des serveurs cloud mais pas de physique.
 Des logiciels open source sont souvent utilisés
 Le babyfoot est très apprécié
 Et le mot d'ordre :
-'Toujours un CAFE pour commencer la journée!'
-```
+'Toujours un _**CAFE**_ pour commencer la journée!'
 
 
 Aide pour texte
