@@ -36,7 +36,9 @@ j'ai aussi utilisé les telephones
 pour faire des test d'applis
 on a plusieurs endroits pour manger dans les environs
 un boulangerie et environ 3 restaurants un lidl et autre
-j'ai aussi mangé **Ange** aujourd'hui
+j'ai aussi mangé **Ange** aujourd'hui.
+On ma demandé de trouver un sapin de noel
+qu'ils aurait perdu,
 
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/Images/IMG_0304.jpg)
@@ -51,9 +53,11 @@ car la plus part font du télé-travails.
 Je compter prendre
 une photo du bâtiments vue de dehors mais
 il y a du brouillard donc bon peut être plus tard
-au moins
-j'ai pu installer la camera dans la salle de reunion
-
+au moins.
+J'ai pu installer la camera dans la salle de reunion
+il faudra également faire un doc pour expliquer
+comment marche imprimante
+car ils l'ont changé il n'y a pas longtemps.
 
 
 
@@ -73,7 +77,8 @@ Des logiciels open source sont souvent utilisés
 Le babyfoot est très apprécié
 Et le mot d'ordre :
 'Toujours un _**CAFE**_ pour commencer la journée!'
-
+Un **Sapin** de **Noel**
+a également disparu et est toujours rechercher
 
 Aide pour texte
 ```markdown
