@@ -85,7 +85,8 @@ a également disparu et est toujours rechercher
 
 ![Salle relax](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0313.jpg?raw=true)
 ![Salle relax2](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0319.jpg?raw=true)
-
+![Exterieur](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0320.jpg?raw=true)
+![Exterieur2](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0323.jpg?raw=true)
 
 
 Aide pour texte
