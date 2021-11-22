@@ -88,7 +88,6 @@ Et le mot d'ordre :
 Un **Sapin** de **Noel**
 a également disparu et est toujours rechercher
 
-<a href="https://github.com/SullyFlex/Stage3eme"><u>Site Web</u></a>
 
 ### Extra photos
 
