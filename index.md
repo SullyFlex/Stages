@@ -74,7 +74,7 @@ et je ne possède toujours pas de nouvelle du **Sapin de Noel**
 il a dut être oublier
 j'ai dut faire un document pour expliquer comment fonctionner la nouvelle <a href="https://sullyflex.github.io/Stage3eme/html/page3"><u><strong>Imprimante</strong></u></a>
 Le problème de chauffage du pc est devenue un avantage car il fait plutôt frais c'est dernier jours
-j'ai également appris a utiliser des <a href='https://sullyflex.github.io/Stage3eme/html/page4'><u><strong>Liens</strong></u></a> cliquable pour amener vers d'autre pages 
+j'ai également appris a utiliser des <a href='https://sullyflex.github.io/Stage3eme/html/page4'><u><strong>Liens</strong></u></a> cliquable pour amener vers d'autre pages
 choses que j'utilise depuis un petit moment
 
 
@@ -99,7 +99,7 @@ Et le mot d'ordre :
 Un **Sapin** de **Noel**
 a également disparu et est toujours rechercher.
 Une **langue** a part a étais développer au fur est a mesure du temps
-cette langue principalement remplis de mots anglais il est utiliser principalement pour parler de **theme technique** ou pas.
+cette langue principalement remplis de mots anglais il est utiliser principalement pour parler de **'Theme technique'** ou pas.
 
 
 ### Extra photos
