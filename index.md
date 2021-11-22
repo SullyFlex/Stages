@@ -72,8 +72,13 @@ ils utilise un mot anglais a chaque fois  qu'ils parlent d'une machine ou un ter
 et ce n'est pas facile de les comprendre et meme si tu arriverais a les comprendre ca ne serai pas forcement intéressant c'est plutôt difficile de s'intégrait dans une conversations
 et je ne possède toujours pas de nouvelle du **Sapin de Noel**
 il a dut être oublier
-j'ai dut faire un document pour expliquer comment fonctionner la nouvelle <a href="https://sullyflex.github.io/Stage3eme/page3"><u><strong>Imprimante</u></strong>
-Le problème de chauffage du pc est devenue un avantage car il fait plutôt frais c'est dernier jours 
+j'ai dut faire un document pour expliquer comment fonctionner la nouvelle <a href="https://sullyflex.github.io/Stage3eme/html/page3"><u><strong>Imprimante</strong></u></a>
+Le problème de chauffage du pc est devenue un avantage car il fait plutôt frais c'est dernier jours
+j'ai également appris a utiliser des <a href='https://sullyflex.github.io/Stage3eme/html/page4'><u><strong>Liens</strong></u></a> cliquable pour amener vers d'autre pages 
+choses que j'utilise depuis un petit moment
+
+
+
 
 ### Note
 Ils utilisent surtout 2 choses **Jira** et **Confluence**
@@ -92,7 +97,9 @@ Le babyfoot est très apprécié
 Et le mot d'ordre :
 'Toujours un _**CAFE**_ pour commencer la journée!'
 Un **Sapin** de **Noel**
-a également disparu et est toujours rechercher
+a également disparu et est toujours rechercher.
+Une **langue** a part a étais développer au fur est a mesure du temps
+cette langue principalement remplis de mots anglais il est utiliser principalement pour parler de **theme technique** ou pas.
 
 
 ### Extra photos
