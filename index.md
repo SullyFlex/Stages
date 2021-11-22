@@ -65,7 +65,7 @@ et j'ai enfin pu sortir les cartons
 
 ## **Jour 4**
 Aujourd'hui je reviens de weekend et je suis pas complètement réveiller
-Je commence a coder un site en <a href="-https://sullyflex.github.io/Stage3eme/html/"><u>**HTML**</u></a> est c'est plus dure que ce que j'utilise maintenant
+Je commence a coder un site en <a href="-https://sullyflex.github.io/Stage3eme/html/index"><u><strong>HTML</strong></u></a> est c'est plus dure que ce que j'utilise maintenant
 
 
 
@@ -88,7 +88,7 @@ Et le mot d'ordre :
 Un **Sapin** de **Noel**
 a également disparu et est toujours rechercher
 
-<a href="-https://github.com/SullyFlex/Stage3eme"><u>Site Web la</u></a>
+<a href="-https://github.com/SullyFlex/Stage3eme"><u>Site Web</u></a>
 
 ### Extra photos
 
