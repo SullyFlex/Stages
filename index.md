@@ -47,7 +47,7 @@ apres avoir cherchez un peu j'ai abandonner.
 ## **Jour 3**
 La _**Fatigue**_ commence a ce faire sentir,
 J'ai cazy fini tous ce que je devais faire
-il me a prendre reste 2,3 photos,
+il me reste a prendre 2,3 photos,
 finir de trié les pc et virer les cartons.
 aujourd'hui il n'y a pas beaucoup de personne
 car la plus part font du **Télé-travails**.
@@ -65,7 +65,7 @@ et j'ai enfin pu sortir les cartons
 
 ## **Jour 4**
 Aujourd'hui je reviens de weekend et je suis pas complètement réveiller
-Je commence a coder un site en <a href="-https://sullyflex.github.io/Stage3eme/html/index"><u><strong>HTML</strong></u></a> est c'est plus dure que ce que j'utilise maintenant
+Je commence a coder un site en <a href="https://sullyflex.github.io/Stage3eme/html/index"><u><strong>HTML</strong></u></a> est c'est plus dure que ce que j'utilise maintenant
 
 
 
@@ -88,7 +88,7 @@ Et le mot d'ordre :
 Un **Sapin** de **Noel**
 a également disparu et est toujours rechercher
 
-<a href="-https://github.com/SullyFlex/Stage3eme"><u>Site Web</u></a>
+<a href="https://github.com/SullyFlex/Stage3eme"><u>Site Web</u></a>
 
 ### Extra photos
 
