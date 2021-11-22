@@ -83,8 +83,8 @@ Et le mot d'ordre :
 'Toujours un _**CAFE**_ pour commencer la journée!'
 Un **Sapin** de **Noel**
 a également disparu et est toujours rechercher
-<a href="-https://github.com/SullyFlex/Stage3eme"><strong><u>Site Web la</strong></u></a>
-<a href="-https://sullyflex.github.io/Stage3eme/html/"><strong><u>Test Html</strong></u></a>
+<a href="-https://github.com/SullyFlex/Stage3eme">Site Web la</a>
+<a href="-https://sullyflex.github.io/Stage3eme/html/">Test Html</a>
 ### Extra photos
 
 
