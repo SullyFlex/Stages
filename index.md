@@ -38,9 +38,9 @@ un boulangerie et environ 3 restaurants un lidl et autre
 j'ai aussi mangé **Ange** aujourd'hui.
 On ma demandé de trouver un **Sapin** de **Noel**
 qu'ils aurait perdu, par quel miracle peut tu
-perdre un sapin de noel je ne sais pas mais cest
+perdre un sapin de noel je ne sais pas mais c'est
 arrivé donc bon
-apres avoir cherchez un peu j'ai abandonner.
+après avoir cherchez un peu j'ai abandonner.
 
 ![Ensemble Des Bureaux](https://raw.githubusercontent.com/SullyFlex/Stage3eme/gh-pages/Images/IMG_0304.jpg)
 
@@ -76,6 +76,7 @@ j'ai dut faire un document pour expliquer comment fonctionner la nouvelle <a hre
 Le problème de chauffage du pc est devenue un avantage car il fait plutôt frais c'est dernier jours
 j'ai également appris a utiliser des <a href='https://sullyflex.github.io/Stage3eme/html/page4'><u><strong>Liens</strong></u></a> cliquable pour amener vers d'autre pages
 choses que j'utilise depuis un petit moment
+c'était peut être la journée la mois productive
 
 
 
