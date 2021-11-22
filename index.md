@@ -63,6 +63,10 @@ Toujours pas de nouvelle de se fameux **Sapin** de **Noel**
 J'ai mangé à nobinobi(Restaurants Korean)
 et j'ai enfin pu sortir les cartons
 
+## **Jour 4**
+Aujourd'hui je reviens de weekend et je suis pas complètement réveiller
+Je commence a coder un site en <a href="-https://sullyflex.github.io/Stage3eme/html/"><u>**HTML**</u></a> est c'est plus dure que ce que j'utilise maintenant
+
 
 
 ### Note
@@ -83,10 +87,10 @@ Et le mot d'ordre :
 'Toujours un _**CAFE**_ pour commencer la journée!'
 Un **Sapin** de **Noel**
 a également disparu et est toujours rechercher
-<a href="-https://github.com/SullyFlex/Stage3eme">Site Web la</a>
-<a href="-https://sullyflex.github.io/Stage3eme/html/">Test Html</a>
-### Extra photos
 
+<a href="-https://github.com/SullyFlex/Stage3eme"><u>Site Web la</u></a>
+
+### Extra photos
 
 ![Salle relax](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0313.jpg?raw=true)
 ![Salle relax2](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0319.jpg?raw=true)
