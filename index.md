@@ -15,7 +15,7 @@ et ils s'en occupent et tentent de régler les bugs que
 les utilisateurs on pu rencontrer
 et faire des améliorations si demandées.
 j'ai fait 4 meetings, et je commence à mieux les enjeux du metier.
-On m'a prêté un _**Macbook Pro**_ et j'ai fait un diagramme pour un meeting.
+On m'a prêté un _**Macbook Pro**_ qui a un problème de chauffage il peut atteindre les 90 degrés pareil qu'une bouillotte et puis j'ai fait un diagramme pour un meeting.
 J'ai également manger à **Bistro Regions**
 
 ![Mon Bureau](https://github.com/SullyFlex/Stage3eme/blob/gh-pages/Images/IMG_0303.jpg?raw=true)
@@ -65,9 +65,15 @@ et j'ai enfin pu sortir les cartons
 
 ## **Jour 4**
 Aujourd'hui je reviens de weekend et je suis pas complètement réveiller
-Je commence a coder un site en <a href="https://sullyflex.github.io/Stage3eme/html/index"><u><strong>HTML</strong></u></a> est c'est plus dure que ce que j'utilise maintenant
-
-
+Je commence a coder un site en <a href="https://sullyflex.github.io/Stage3eme/html/index"><u><strong>HTML</strong></u></a> est c'est plus dure que ce que j'utiliser jusqu'à maintenant
+J'ai mangé dans un restaurant **italien** avec 3 personne que je ne connais pas
+le problème ici c'est que les sujets de conversation sont ennuyant
+ils utilise un mot anglais a chaque fois  qu'ils parlent d'une machine ou un terme spécifique ou autre ils possède vraiment leur **language** a eux
+et ce n'est pas facile de les comprendre et meme si tu arriverais a les comprendre ca ne serai pas forcement intéressant c'est plutôt difficile de s'intégrait dans une conversations
+et je ne possède toujours pas de nouvelle du **Sapin de Noel**
+il a dut être oublier
+j'ai dut faire un document pour expliquer comment fonctionner la nouvelle <a href="https://sullyflex.github.io/Stage3eme/page3"><u><strong>Imprimante</u></strong>
+Le problème de chauffage du pc est devenue un avantage car il fait plutôt frais c'est dernier jours 
 
 ### Note
 Ils utilisent surtout 2 choses **Jira** et **Confluence**
