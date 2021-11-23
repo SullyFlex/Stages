@@ -2,6 +2,28 @@
 
 ### _Décris le Stage de Sully Muller dans la société 4Sh 2021_
 
+### **Horaire**
+
+<table>
+  <tr>
+     <td><strong>Mercredi</strong></td>
+     <td><strong>Jeudi</strong></td>
+     <td><strong>Vendredi</strong></td>
+     <td><strong>Lundi</strong></td>
+     <td><strong>Mardi</strong></td>
+     <td><strong>Mercredi</strong></td>
+  </tr>
+  <tr>
+     <td><u>9h-17h40</u></td>
+       <td><u>9h15-17h35</u></td>
+       <td><u>9h20-17h40</u></td>
+       <td><u>9h15-17h05</u></td>
+       <td><u>9h15-idk</u></td>
+       <td><u>idk</u></td>
+   </tr>
+</table>
+
+
 ## **Jour 1**
 On m'as montré mon **Bureau**
 J'ai visité les 2 étages.
@@ -78,27 +100,6 @@ j'ai également appris a utiliser des <a href='https://sullyflex.github.io/Stage
 choses que j'utilise depuis un petit moment
 c'était peut être la journée la mois productive
 
-
-### **Horaire**
-
-<table>
-  <tr>
-     <td><strong>Mercredi</strong></td>
-     <td><strong>Jeudi</strong></td>
-     <td><strong>Vendredi</strong></td>
-     <td><strong>Lundi</strong></td>
-     <td><strong>Mardi</strong></td>
-     <td><strong>Mercredi</strong></td>
-  </tr>
-  <tr>
-     <td><u>9h-17h40</u></td>
-       <td><u>9h15-17h35</u></td>
-       <td><u>9h20-17h40</u></td>
-       <td><u>9h15-17h05</u></td>
-       <td><u>9h15-idk</u></td>
-       <td><u>idk</u></td>
-   </tr>
-</table>
 
 
 ### Note
