@@ -79,6 +79,30 @@ choses que j'utilise depuis un petit moment
 c'était peut être la journée la mois productive
 
 
+### **Horaire**
+
+<table>
+  <tr>
+     <td>Mercredi</td>
+     <td>Jeudi</td>
+     <td>Vendredi </td>
+     <td>Lundi</td>
+     <td>Mardi </td>
+     <td>Mercredi</td>
+  </tr>
+  <tr>
+     <td>9h-17h40</td>
+       <td>9h15-17h35</td>
+       <td>9h20-17h40</td>
+       <td>9h15-17h05</td>
+       <td>9h15-idk</td>
+       <td>idk</td>
+   </tr>
+</table>
+
+
+
+
 
 
 ### Note
