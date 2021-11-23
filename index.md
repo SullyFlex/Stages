@@ -23,6 +23,10 @@
    </tr>
 </table>
 
+#### Chez 4sh
+Ils font et gère des logiciels et applications informatiques qui correspondent aux besoins demandés par n'importe quelle entreprise.
+
+
 
 ## **Jour 1**
 On m'as montré mon **Bureau**
@@ -99,6 +103,12 @@ Le problème de chauffage du pc est devenue un avantage car il fait plutôt frai
 j'ai également appris a utiliser des <a href='https://sullyflex.github.io/Stage3eme/html/page4'><u><strong>Liens</strong></u></a> clickable pour amener vers d'autre pages
 choses que j'utilise depuis un petit moment
 c'était peut être la journée la mois productive
+
+### **Jour 5**
+Aujourd'hui le matin étais vachement difficile je ne suis toujours pas complement réveiller a l'intérieur
+J'ai ouvert un **Mac HS** pour prendre son disque dur
+et j'ai créer le **Tableau** pour mon **Emplois du Temps**
+
 
 
 
