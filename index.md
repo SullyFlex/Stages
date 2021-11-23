@@ -91,7 +91,7 @@ et j'ai enfin pu sortir les cartons
 
 ## **Jour 4**
 Aujourd'hui je reviens de weekend et je suis pas complètement réveiller
-Je commence a coder un site en <a href="https://sullyflex.github.io/Stage3eme/html/index"><u><strong>HTML</strong></u></a> est c'est plus dure que ce que j'utiliser jusqu'à maintenant
+Je commence a coder un site en <a href="https://sullyflex.github.io/Stage3eme/html/"><u><strong>HTML</strong></u></a> est c'est plus dure que ce que j'utiliser jusqu'à maintenant
 J'ai mangé dans un restaurant **italien** avec 3 personne que je ne connais pas
 le problème ici c'est que les sujets de conversation sont ennuyant
 ils utilise un mot anglais a chaque fois  qu'ils parlent d'une machine ou un terme spécifique ou autre ils possède vraiment leur **language** a eux
