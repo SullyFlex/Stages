@@ -91,12 +91,12 @@ c'était peut être la journée la mois productive
      <td><strong>Mercredi</strong></td>
   </tr>
   <tr>
-     <td>9h-17h40</td>
-       <td>9h15-17h35</td>
-       <td>9h20-17h40</td>
-       <td>9h15-17h05</td>
-       <td>9h15-idk</td>
-       <td>idk</td>
+     <td><u>9h-17h40</u></td>
+       <td><u>9h15-17h35</u></td>
+       <td><u>9h20-17h40</u></td>
+       <td><u>9h15-17h05</u></td>
+       <td><u>9h15-idk</u></td>
+       <td><u>idk</u></td>
    </tr>
 </table>
 
