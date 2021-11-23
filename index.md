@@ -74,7 +74,7 @@ et je ne possède toujours pas de nouvelle du **Sapin de Noel**
 il a dut être oublier
 j'ai dut faire un document pour expliquer comment fonctionner la nouvelle <a href="https://sullyflex.github.io/Stage3eme/html/page3"><u><strong>Imprimante</strong></u></a>
 Le problème de chauffage du pc est devenue un avantage car il fait plutôt frais c'est dernier jours
-j'ai également appris a utiliser des <a href='https://sullyflex.github.io/Stage3eme/html/page4'><u><strong>Liens</strong></u></a> cliquable pour amener vers d'autre pages
+j'ai également appris a utiliser des <a href='https://sullyflex.github.io/Stage3eme/html/page4'><u><strong>Liens</strong></u></a> clickable pour amener vers d'autre pages
 choses que j'utilise depuis un petit moment
 c'était peut être la journée la mois productive
 
@@ -83,12 +83,12 @@ c'était peut être la journée la mois productive
 
 <table>
   <tr>
-     <td>Mercredi</td>
-     <td>Jeudi</td>
-     <td>Vendredi </td>
-     <td>Lundi</td>
-     <td>Mardi </td>
-     <td>Mercredi</td>
+     <td><strong>Mercredi</strong></td>
+     <td><strong>Jeudi</strong></td>
+     <td><strong>Vendredi</strong></td>
+     <td><strong>Lundi</strong></td>
+     <td><strong>Mardi</strong></td>
+     <td><strong>Mercredi</strong></td>
   </tr>
   <tr>
      <td>9h-17h40</td>
@@ -99,10 +99,6 @@ c'était peut être la journée la mois productive
        <td>idk</td>
    </tr>
 </table>
-
-
-
-
 
 
 ### Note
