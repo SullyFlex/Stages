@@ -146,6 +146,7 @@ cette langue principalement remplis de mots anglais il est utiliser principaleme
 
 <link rel="icon" type="image/jpg" sizes="256x256" href="https://i.ibb.co/d78k2Dg/Icon.jpg">
 
+
 Aide pour texte
 ```markdown
 Code
