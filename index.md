@@ -144,7 +144,7 @@ cette langue principalement remplis de mots anglais il est utiliser principaleme
 
 <link rel="shortcut icon" href="https://i.ibb.co/d78k2Dg/Icon.jpg" type="favicon/ico" />
 
-<link rel="icon" type="image/jpg" sizes="256x256" href="https://i.ibb.co/d78k2Dg/Icon.jpg">
+<link rel="icon" type="image/png" sizes="256x256" href="https://i.ibb.co/d78k2Dg/Icon.jpg">
 
 
 Aide pour texte
