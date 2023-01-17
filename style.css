@@ -116,10 +116,6 @@ button,select {
     text-transform: none
 }
 
-button,html input[type="button"],input[type="reset"],input[type="submit"] {
-    -webkit-appearance: button;
-    cursor: pointer
-}
 
 button[disabled],html input[disabled] {
     cursor: default
@@ -141,11 +137,6 @@ input[type="checkbox"],input[type="radio"] {
 
 input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button {
     height: auto
-}
-
-input[type="search"] {
-    -webkit-appearance: textfield;
-    box-sizing: content-box
 }
 
 input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration {
