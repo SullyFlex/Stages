@@ -6,7 +6,8 @@
 }
 
 body {
-    margin: 8px
+    margin: 8px;
+    font-size: 22px;
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
